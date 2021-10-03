@@ -1,0 +1,14 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># wipro-\r\nWipro REpo\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 07425c3f2020371f6e474df27289953e9636bbf6)
++++ b/README.md	(date 1633273984564)
+@@ -1,2 +1,1 @@
+-# wipro-
+-Wipro REpo
++
